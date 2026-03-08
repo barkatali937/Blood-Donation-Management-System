@@ -24,6 +24,4 @@ Users can add, update, delete, and view donor details in an organized way.
 - Frontend: React application for user interface  
 - Backend: Node.js and Express.js API  
 - Database: MongoDB for storing donor data
-
-## Author
-Barkat
+  
